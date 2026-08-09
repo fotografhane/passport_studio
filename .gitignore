@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python cache
+.pytest_cache/
+
+# Generated output
+output/
+temp/
+*.tmp
+
+# Local settings
+*.db
+
+# Images generated during runtime
+*.jpg
+*.jpeg
+*.png
+
+# Exceptions (keep these)
+!assets/
+!icons/
+!samples/

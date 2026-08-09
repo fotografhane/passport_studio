@@ -1,0 +1,16 @@
+{
+    "paper": "A4",
+    "dpi": 300,
+    "photo_width": 31,
+    "photo_height": 38,
+    "columns": 6,
+    "margin": 3,
+    "horizontal_gap": 2,
+    "vertical_gap": 2,
+    "printer": "EPSON L3250",
+    "default_copies": 12,
+    "output_folder": "output",
+    "a4_width_mm": 210,
+    "a4_height_mm": 297,
+    "padding_mm": 10
+}

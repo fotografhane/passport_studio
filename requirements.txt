@@ -1,0 +1,12 @@
+customtkinter>=5.2.0
+Pillow>=10.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+rembg>=2.0.50
+onnxruntime>=1.16.0
+pymatting>=1.1.10
+pywin32>=306
+click>=8.1.0
+onnx>=1.15.0
+filetype>=1.2.0
+onnx-ir>=0.1.0
