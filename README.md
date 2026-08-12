@@ -23,7 +23,7 @@ A desktop app for photo studios to generate print-ready passport photo sheets, b
 
 ```bash
 git clone https://github.com/noob-214/Passport_Studio.git
-cd PassportStudio
+cd Passport_Studio
 pip install -r requirements.txt
 python app.py
 ```
