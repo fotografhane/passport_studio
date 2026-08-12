@@ -17,6 +17,7 @@ venv/
 build/
 dist/
 *.spec
+!PassportStudio.spec
 
 # Logs
 *.log
